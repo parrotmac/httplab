@@ -1,3 +1,4 @@
 *_amd64
 .httplab
 dist
+vendor/
